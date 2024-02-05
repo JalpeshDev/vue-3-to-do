@@ -1,3 +1,0 @@
-<template>
-    <todo-list />
-</template>
